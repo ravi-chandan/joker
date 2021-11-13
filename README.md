@@ -1,1 +1,4 @@
-# joker
+- 👋 Hi, I’m @rc018
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning the art of Data Analysis
+- 💞️ I’m looking to collaborate on Analytics projects
